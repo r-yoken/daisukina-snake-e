@@ -1,0 +1,1 @@
+<?php includeheader('Location: /daisukina-snake.html')?>
