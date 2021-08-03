@@ -9,7 +9,8 @@
 }
 
 .wrap {
-    width: 100%;
+    max-width:100%;
+	height:auto;
     margin: auto;
     color: #fff;
     background-image: url(./image/S__29245444.jpg);
@@ -18,8 +19,8 @@
     background-attachment: fixed;  
 }
 .container {
-    min-height: 100vh;
-    width:100%;
+    max-width:100%;
+	height:auto;
     display: flex;
     align-items: center;
     padding: 100px 0;
