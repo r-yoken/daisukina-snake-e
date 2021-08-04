@@ -27,7 +27,8 @@
     background-image: url(./image/S__29245443.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;  
+    background-attachment: fixed;
+    background-size: cover;  
     
 }
 .timeline {
